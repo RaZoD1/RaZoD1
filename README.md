@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am an aspiring software developer from Austria.
-I study information technology in HTL Ybbs [https://www.sz-ybbs.ac.at/]
+I study information technology in [HTL Ybbs](https://www.sz-ybbs.ac.at/).
 <!--
 **RaZoD1/RaZoD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

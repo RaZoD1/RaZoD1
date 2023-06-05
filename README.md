@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razod1&label=Profile%20views&color=0e75b6&style=flat" alt="razod1" /> </p>
 
-- 🌱 I’m currently learning **React, Java (Swing), TypeScript, MERN (MongoDB, Express, React, NodeJS)**
+- 🌱 I’m currently learning **React, Java (Swing), TypeScript, ExpressJS, Kotlin (Ktor)**
 
 - 📫 How to reach me **raphael.freunberger@sz-ybbs.ac.at**
 

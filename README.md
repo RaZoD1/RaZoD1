@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working on [QuetzalVPN](https://github.com/Quetzal-VPN/quetzal-vpn)
 
-- 🌱 I’m currently learning **React, Java, PHP, TypeScript, ExpressJS, Kotlin, Ktor, Exposed**
+- 🌱 I’m currently learning **Kotlin, Spring**
 
-- 💬 Ask me about **React, JS/TS, ExpressJS**
+- 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev**
+
+- ⭐ Join me and many others in [Advent of Code 2023](https://github.com/RaZoD1/AdventOfCode2023)
 
 - 📫 How to reach me **raphael.freunberger@sz-ybbs.ac.at**
 

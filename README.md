@@ -11,7 +11,7 @@
 
 - ⭐ Join me and many others in [Advent of Code 2023](https://github.com/RaZoD1/AdventOfCode2023)
 
-- 📫 How to reach me **raphael.freunberger@sz-ybbs.ac.at**
+- 📫 How to reach me **raphaelfreunberger@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

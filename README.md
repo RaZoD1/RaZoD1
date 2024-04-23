@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razod1&label=Profile%20views&color=22ec3a&style=flat" alt="razod1" /> </p>
 
-- 🔭 I’m currently working on [QuetzalVPN](https://github.com/Quetzal-VPN/quetzal-vpn)
+- 🔭 I’m currently working on **a desktop app using [Wails](https://github.com/wailsapp/wails)**
 
-- 🌱 I’m currently learning **Kotlin, Spring**
+- 🌱 I’m currently learning **Wails, Go, Vue.js**
 
 - 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev**
 
-- ⭐ Join me and many others in [Advent of Code 2023](https://github.com/RaZoD1/AdventOfCode2023)
+- 🔒 Join me and many others in [openECSC 2024](https://open.ecsc2024.it/)
 
 - 📫 How to reach me **raphaelfreunberger@gmail.com**
 

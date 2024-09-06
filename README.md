@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razod1&label=Profile%20views&color=22ec3a&style=flat" alt="razod1" /> </p>
 
-- 🔭 I’m currently working on **a desktop app using [Wails](https://github.com/wailsapp/wails)**
+- 🔭 I’m currently working on **my diploma thesis at [SZ-Ybbs](https://www.sz-ybbs.ac.at/)**
 
-- 🌱 I’m currently learning **Wails, Go, Vue.js**
+- 🌱 I’m currently learning **OAuth 2.0**
 
 - 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev**
-
-- 🔒 Join me and many others in [openECSC 2024](https://open.ecsc2024.it/)
 
 - 📫 How to reach me **raphaelfreunberger@gmail.com**
 

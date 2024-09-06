@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my diploma thesis at [SZ-Ybbs](https://www.sz-ybbs.ac.at/)**
 
-- 🌱 I’m currently learning **OAuth 2.0**
+- 🌱 I’m currently learning **OAuth 2.0, Kubernetes, SvelteKit**
 
 - 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev**
 

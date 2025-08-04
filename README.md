@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razod1&label=Profile%20views&color=22ec3a&style=flat" alt="razod1" /> </p>
 
-- 🔭 I’m currently working on **my diploma thesis at [SZ-Ybbs](https://www.sz-ybbs.ac.at/)**
+- 🌱 I’m currently experimenting with **OAuth2.0 and Kubernetes**
 
-- 🌱 I’m currently learning **OAuth 2.0, Kubernetes, SvelteKit**
+- 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev, Home-Labbing/Self-Hosting**
 
-- 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev**
-
-- 📫 How to reach me **raphaelfreunberger@gmail.com**
+- 📫 Reach me at **raphael@freunberger.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-<h3 align="center">An aspiring software developer from Austria</h3>
+<h3 align="center">An aspiring software developer and homelab enthusiast from Austria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razod1&label=Profile%20views&color=22ec3a&style=flat" alt="razod1" /> </p>
 
 - 🌱 I’m currently experimenting with **OAuth2.0 and Kubernetes**
 
-- 💬 Ask me about **React, JS/TS, Kotlin, Web-Dev, Home-Labbing/Self-Hosting**
+- 💬 Ask me about **Kotlin, Web-Dev, Home-Labbing*
 
 - 📫 Reach me at **raphael@freunberger.dev**
 

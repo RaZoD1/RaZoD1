@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razod1&label=Profile%20views&color=22ec3a&style=flat" alt="razod1" /> </p>
 
-- 🌱 I’m currently experimenting with **OAuth2.0 and Kubernetes**
+- 🌱 I’m currently experimenting with **OPNsense (IDS/IPS + zenarmor), GitOps/IaC**
 
 - 💬 Ask me about **Kotlin, Home-Labbing, Open-Source Networking*
 

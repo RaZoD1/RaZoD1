@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently experimenting with **OPNsense (IDS/IPS + zenarmor), GitOps/IaC**
 
-- 💬 Ask me about **Kotlin, Home-Labbing, Open-Source Networking*
+- 💬 Ask me about **Kotlin, Home-Labbing, Open-Source Networking**
 
 - 📫 Reach me at **raphael@freunberger.dev**
 
